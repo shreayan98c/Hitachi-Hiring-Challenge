@@ -1,2 +1,4 @@
-# Hitachi-Hiring-Challenge
-My solution to the Hitachi Hiring Challenge 2019
+# Passenger-Level-Detection
+Predicting the passenger volume level for trains.
+
+Languages Used: Python.
